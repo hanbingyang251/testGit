@@ -2,16 +2,17 @@
 public class Hello {
 
 	Hello(){
-		System.out.println("¹¹Ôìº¯Êı");
+		System.out.println("æ„é€ å‡½æ•°");
 	}
 	public void test(){
-		System.out.println("ÏÖÔÚÊÇtest·½·¨");
+		System.out.println("ç°åœ¨æ˜¯testæ–¹æ³•");
 	}
 	public static void main(String[] args) {
-		System.out.println("¸üĞÂ1");
-		System.out.println("¸üĞÂ2");
-		System.out.println("´´½¨·ÖÖ§£¡");
-		System.out.println("Ö÷ÏßÌí¼Ó");
+		System.out.println("æ›´æ–°1");
+		System.out.println("æ›´æ–°2");
+		System.out.println("åˆ›å»ºåˆ†æ”¯ï¼");
+		System.out.println("ä¸»çº¿æ·»åŠ ");
+		System.out.println("zaixiantianjia");
         
 	}
 
